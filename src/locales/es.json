@@ -6,7 +6,7 @@
     "disable": "Desactivar",
     "disabled": "Desactivado",
     "edit": "Editar",
-    "emptyList": "¡Nada que ver aqui!",
+    "emptyList": "¡Nada que ver aquí!",
     "NA": "N/D",
     "no": "No",
     "none": "(Ninguno)",
@@ -45,7 +45,7 @@
       "nosubfolder": "Eliminar subcarpeta",
       "original": "Original",
       "subfolder": "Crear subcarpeta",
-      "title": "Diseño de contenido de Torrent"
+      "title": "Diseño de contenido de torrent"
     },
     "diskIoMode": {
       "disableOsCache": "Desactivar caché SO",
@@ -75,7 +75,7 @@
       "unwanted": "No deseado"
     },
     "monitoredFolderSaveLocation": {
-      "defaultSavePath": "Ruta de Guardado Predeterminada",
+      "defaultSavePath": "Ruta de guardado predeterminada",
       "monitoredFolder": "Ubicación de la carpeta monitoreada",
       "other": "Otro"
     },
@@ -106,7 +106,7 @@
       "filesChecked": "Archivos comprobados",
       "metadataReceived": "Metadatos recibidos",
       "none": "Ninguno",
-      "title": "Condición de parada del torrente"
+      "title": "Condición de parada del torrent"
     },
     "titleOptions": {
       "custom": "Personalizado",
@@ -145,12 +145,12 @@
     "not_complete": "Nunca visto completo",
     "right_click": {
       "advanced": {
-        "auto_tmm": "Gestión Automática de Torrents",
+        "auto_tmm": "Gestión Automática de torrents",
         "download_path": "Establecer ruta de descarga",
         "f_l_prio": "Primera / Última Prioridad",
         "reannounce": "Forzar reenvío",
         "recheck": "Forzar Revisión",
-        "rename": "Renombrar Torrent",
+        "rename": "Renombrar torrent",
         "save_path": "Establecer ruta de guardado",
         "seq_dl": "Descarga secuencial",
         "title": "Avanzado"
@@ -231,13 +231,13 @@
         "tags": "Etiquetas",
         "title": "Parámetros del torrent",
         "upload_limit": "Límite de subida",
-        "use_auto_tmm": "Gestión Automática de Torrents"
+        "use_auto_tmm": "Gestión Automática de torrents"
       },
       "rename": "Renombrar torrent",
       "reset_form": "Restablecer formulario",
       "sequential_download": "Descarga secuencial",
       "submit": "Agregar torrents",
-      "title": "Agregar Torrents"
+      "title": "Agregar torrents"
     },
     "category": {
       "name": "Nombre de categoría",
@@ -303,7 +303,7 @@
       "oldName": "Nombre anterior",
       "required": "Se requiere un nuevo nombre",
       "sameName": "El nuevo nombre debe ser diferente del nombre anterior",
-      "title": "Renombrar Torrent"
+      "title": "Renombrar torrent"
     },
     "rss": {
       "feed": {
@@ -648,7 +648,7 @@
     "bittorrent": {
       "autoAddTrackers": "Agregar automáticamente estos trackers a las nuevas descargas",
       "autoAddTrackersHint": "Un rastreador por línea",
-      "maxActiveCheckingTorrents": "Torrents máximos activos en verificación",
+      "maxActiveCheckingTorrents": "torrents máximos activos en verificación",
       "privacy": {
         "enableAnonymous": "Activar modo anónimo",
         "enableDHT": "Habilitar DHT (red descentralizada) para encontrar más pares",
@@ -669,7 +669,7 @@
         "downloadRateLimit": "Umbral de velocidad de descarga",
         "excludeSlowTorrent": "No contar los torrents lentos en estos límites",
         "maxActiveDownload": "Descargas activas máximas",
-        "maxActiveTorrent": "Torrents máximos activos",
+        "maxActiveTorrent": "torrents máximos activos",
         "maxActiveUpload": "Cargas activas máximas",
         "subheader": "Cola de torrents",
         "torrentInactivityTimer": "Temporizador de inactividad de torrentes",
@@ -705,7 +705,7 @@
           "tip": "Información: La contraseña se guarda sin cifrar",
           "username": "Usuario"
         },
-        "bittorrent": "Usar proxy para fines de BitTorrent",
+        "bittorrent": "Usar proxy para fines de Bittorrent",
         "host": "Anfitrión",
         "hostNameLookup": "Usar proxy para la búsqueda de nombres de host",
         "misc": "Usar proxy para propósitos generales",
@@ -769,7 +769,7 @@
       "saveManagement": {
         "autoTMMEnabled": "Modo de gestión de torrents predeterminado",
         "categoryChangedTMM": "Cuando cambia la Ruta de Guardado de Categoría",
-        "defaultSavePath": "Ruta de Guardado Predeterminada (completa)",
+        "defaultSavePath": "Ruta de guardado predeterminada (completa)",
         "defaultTMMOptions": {
           "automatic": "Automático",
           "manual": "Manual"
@@ -781,7 +781,7 @@
           "relocateTorrent": "Mover torrent",
           "switchToManual": "Cambiar torrent a modo manual"
         },
-        "savePathChangedTMM": "Cuando cambia la Ruta de Guardado Predeterminada",
+        "savePathChangedTMM": "Cuando cambia la Ruta de guardado predeterminada",
         "subheader": "Gestión de Guardado",
         "torrentChangedTMM": "Cuando cambia la categoría del torrent"
       },
@@ -796,7 +796,7 @@
     "rss": {
       "autoDownloader": {
         "enable": "Habilitar el procesamiento de reglas RSS",
-        "subheader": "Descargador Automático de Torrents RSS"
+        "subheader": "Descargador Automático de torrents RSS"
       },
       "reader": {
         "enableProcessing": "Habilitar la obtención de feeds RSS",
@@ -838,7 +838,7 @@
     "tabs": {
       "advanced": "Avanzado",
       "behavior": "Comportamiento",
-      "bittorrent": "BitTorrent",
+      "bittorrent": "Bittorrent",
       "connection": "Conexión",
       "downloads": "Descargas",
       "rss": "RSS",
@@ -846,7 +846,7 @@
       "tagsAndCategories": "Etiquetas y Categorías",
       "vuetorrent": {
         "general": "General",
-        "title": "VueTorrent",
+        "title": "Vuetorrent",
         "torrent_card": {
           "grid": "Vista de cuadrícula",
           "list": "Vista de lista",
@@ -990,15 +990,15 @@
   },
   "topbar": {
     "actions": {
-      "delete": "Eliminar Torrents",
+      "delete": "Eliminar torrents",
       "logs": "Abrir registros",
-      "pause": "Pausar Torrents",
-      "resume": "Reanudar Torrents",
+      "pause": "Pausar torrents",
+      "resume": "Reanudar torrents",
       "rssArticles": "Abrir artículos RSS",
       "searchEngine": "Abrir motor de búsqueda",
       "settings": "Abrir ajustes"
     },
-    "addTorrents": "Agregar Torrents",
+    "addTorrents": "Agregar torrents",
     "overflow": {
       "delete": "Eliminar",
       "logs": "Registros de qBittorrent",
@@ -1077,7 +1077,7 @@
       "categories": "Categorías",
       "tags": "Etiquetas"
     },
-    "title": "Detalle del Torrent",
+    "title": "Detalle del torrent",
     "trackers": {
       "addTrackers": {
         "newTrackers": "URLs de rastreadores para agregar",
@@ -1103,7 +1103,7 @@
     "properties": {
       "added_on": "Añadido el",
       "amount_left": "Cantidad Restante",
-      "auto_tmm": "Gestión Automática de Torrents",
+      "auto_tmm": "Gestión Automática de torrents",
       "availability": "Disponibilidad",
       "available_peers": "Pares (enjambre)",
       "available_seeds": "Semillas (enjambre)",
@@ -1132,10 +1132,10 @@
       "inactive_seeding_time_limit": "Límite de tiempo de siembra inactiva",
       "infohash_v1": "Infohash v1",
       "infohash_v2": "Infohash v2",
-      "is_private": "Torrent privado",
+      "is_private": "torrent privado",
       "last_activity": "Actividad Reciente",
       "magnet": "Enlace de imán",
-      "name": "Título del Torrent",
+      "name": "Título del torrent",
       "nb_connections": "Conexiones totales",
       "nb_connections_limit": "Límite de conexiones",
       "num_leechs": "Pares (conectados)",
